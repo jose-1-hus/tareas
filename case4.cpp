@@ -428,8 +428,7 @@ int main(){
             case 1:
                 limpiar_pantalla();
                 while (true){
-
-                    
+     
                     cout << "\n";
                     cout << "Crear articulo." << "\n\n";
                     x = verificacion_de_digitos("cuantos articulos quieres crear?: ");
